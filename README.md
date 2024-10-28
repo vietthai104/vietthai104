@@ -44,21 +44,21 @@ I'm a Data Intern and Information Systems student at Ho Chi Minh City University
 - Built a robust streaming data pipeline using **Apache Kafka**, **Airflow**, **Spark**, and **Cassandra**
 - Implemented automated data streaming from external APIs
 - Containerized the entire pipeline using **Docker**
-- [View Project →](https://github.com/vietthai104/Realtime-Data-Streaming-from-API)
+- <a href="https://github.com/vietthai104/Realtime-Data-Streaming-from-API" target="_blank">View Project →</a>
 
 ### 2. Uber Data Engineering
 - Developed an ETL pipeline using **Google Cloud Platform**
 - Utilized **Mage.AI** for workflow orchestration
 - Implemented data warehousing with **BigQuery**
 - Created dashboards using **Looker Studio**
-- [View Project →](https://github.com/vietthai104/Uber-Analytics)
+- <a href="https://github.com/vietthai104/Uber-Analytics" target="_blank">View Project →</a>
 
 ### 3. Tokyo Olympic Data Engineering
 - Built end-to-end data pipeline using **Azure** services
 - Leveraged **Azure Data Factory**, **Data Lake Gen 2**, and **Databricks**
 - Performed analytics using **Azure Synapse**
 - Visualized insights with **Power BI**
-- [View Project →](https://github.com/vietthai104/Olympic-Data-Analytics)
+- <a href="https://github.com/vietthai104/Olympic-Data-Analytics" target="_blank">View Project →</a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
