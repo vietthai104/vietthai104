@@ -77,7 +77,6 @@ I'm a Data Intern and Information Systems student at Ho Chi Minh City University
 ## 📫 Get in Touch
 - LinkedIn: [Thai Nguyen](https://www.linkedin.com/in/thainguyen104/)
 - Email: thai1042002@gmail.com
-- Phone: (+84) 0979929644
 
 <div align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
