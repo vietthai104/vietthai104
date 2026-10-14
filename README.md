@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thainguyen104/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thai1042002@gmail.com)
 
-I'm a Data Holic and Information Systems graduate at Ho Chi Minh City University of Science, passionate about building data pipelines and working with big data technologies.
+I'm a Data Holic and Information Systems graduate at Ho Chi Minh City University of Science, passionate about building data pipelines and working with big data technologies. Currently working as a Data Engineer @F88
 
 <div align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
